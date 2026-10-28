@@ -21,5 +21,10 @@ Present findings through visualizations.
 Skills Demonstrated
 Data cleaning, exploratory data analysis, Excel formulas, data visualization, dashboard design, and data storytelling.
 Author
-Data Analytics Portfolio Project
+Data Analytics Project
+## Dashboard Preview
+![Streaming Content Trends Dashboard]
+(Straming_Content_Trends_Dashboard.png)
+hData Analytics Portfolio Project
 
+DD
