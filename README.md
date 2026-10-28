@@ -23,7 +23,7 @@ Data cleaning, exploratory data analysis, Excel formulas, data visualization, da
 Author
 Data Analytics Project
 ## Dashboard Preview
-![Streaming Content Trends Dashboard]
+![Streaming_Content_Trends_Dashboard.png]
 (Straming_Content_Trends_Dashboard.png)
 hData Analytics Portfolio Project
 
