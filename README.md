@@ -22,6 +22,13 @@ Skills Demonstrated
 Data cleaning, exploratory data analysis, Excel formulas, data visualization, dashboard design, and data storytelling.
 Author
 Data Analytics Project
+## Project Files
+-
+`Sreaming_Content_Trends_Dashboard_Final.twbx` - Tableau dashboard workbook.
+-
+`Streaming_Content_Trends_Dashboard.png`
+- Dashboard screenshot.
+- `Streaming_Content_Trends.xlsx` Excel workbook containing the original and cleaned datasets.
 ## Dashboard Preview
 ![Streaming_Content_Trends_Dashboard.png](Straming_Content_Trends_Dashboard.png)
 hData Analytics Portfolio Project
